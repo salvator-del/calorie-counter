@@ -3,4 +3,5 @@
 # Here is the preview:
 ![cal](https://github.com/salvator-del/calorie-counter/assets/65698466/4f76eb60-621d-4b81-8739-3ac0b6bc1143)
 
-# live demo[salvator-calorie-counter.netlify.app]
+# live demo:
+# salvator-calorie-counter.netlify.app
